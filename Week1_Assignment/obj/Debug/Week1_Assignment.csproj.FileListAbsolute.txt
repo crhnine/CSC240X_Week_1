@@ -1,0 +1,10 @@
+C:\Users\chris\source\repos\Week1_Assignment\Week1_Assignment\bin\Debug\Week1_Assignment.exe.config
+C:\Users\chris\source\repos\Week1_Assignment\Week1_Assignment\bin\Debug\Week1_Assignment.exe
+C:\Users\chris\source\repos\Week1_Assignment\Week1_Assignment\bin\Debug\Week1_Assignment.pdb
+C:\Users\chris\source\repos\Week1_Assignment\Week1_Assignment\obj\Debug\Week1_Assignment.csprojResolveAssemblyReference.cache
+C:\Users\chris\source\repos\Week1_Assignment\Week1_Assignment\obj\Debug\Week1_Assignment.Form1.resources
+C:\Users\chris\source\repos\Week1_Assignment\Week1_Assignment\obj\Debug\Week1_Assignment.Properties.Resources.resources
+C:\Users\chris\source\repos\Week1_Assignment\Week1_Assignment\obj\Debug\Week1_Assignment.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\Week1_Assignment\Week1_Assignment\obj\Debug\Week1_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Week1_Assignment\Week1_Assignment\obj\Debug\Week1_Assignment.exe
+C:\Users\chris\source\repos\Week1_Assignment\Week1_Assignment\obj\Debug\Week1_Assignment.pdb
